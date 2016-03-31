@@ -7,6 +7,8 @@
 + 熟悉 linux 简单使用，你一定要知道 linux 发行版不是只有 Ubuntu 和 CentOS ，无障碍命令行操作；
 + 较强的自学能力，无障碍阅读英文技术文档，会正确使用搜索引擎。
 
+您需要完成如下测试：https://github.com/zhangr011/erlang_intermediate_moyou/blob/master/erlang-test.md
+
 ## 进阶要求
 有服务端 erlang 开发经验的，除了满足上面，还需满足；
 + 熟悉使用 OTP 常用框架，懂 OTP 设计原则；
